@@ -11,7 +11,8 @@ This repository dives into a groundbreaking approach that tackles noisy-label le
 
 ## 📂 Structure
 
-- **Paper:** Find the detailed write-up of our work in the [ECCV link](https://link.springer.com/chapter/10.1007/978-3-031-73235-5_21).
+- **Paper (ECCV):** Find the detailed write-up of our work in the [ECCV link](https://link.springer.com/chapter/10.1007/978-3-031-73235-5_21).
+- **Paper (arXiv):** You can also access the paper on [arXiv](https://arxiv.org/pdf/2305.19486).
 - **Poster:** Check out the poster to get a visual overview of our findings and methods.
 - **Podcast:** Get an audio summary of the key points and discussions surrounding the paper.
 - **Code:** Stay tuned for our code implementation; it's under construction and will be frequently updated to ensure everything works seamlessly! 🛠️
