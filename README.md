@@ -104,7 +104,7 @@ If you find our work useful, please consider citing our paper:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). This allows for non-commercial use, sharing, and adaptation with appropriate attribution. For commercial use, please contact the authors. See the LICENSE file for details.
 
 ## Acknowledgments
 
